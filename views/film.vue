@@ -6,7 +6,7 @@
       <div class="container">
         <div class="title">
           <h1>{{movieShow.subject_collection.name}}</h1>
-          <router-link to="" class="more">更多</router-link>
+          <router-link to="" class="more">多了</router-link>
         </div>
       </div>
       <ul class="items">
